@@ -2,10 +2,9 @@
 
 Creates a Walking Camera mode for Euro Truck Simulator 2, using either your phone or WASD controls
 
-<div style="display: flex; gap: 16px;">
-  <video src="https://cdn1.trucklinemp.com/other/preview_mobile.mp4" controls width="300"></video>
-  <video src="https://cdn1.trucklinemp.com/other/preview_wasd.mp4" controls width="950"></video>
-</div>
+| Mobile | WASD |
+|---|---|
+| https://github.com/Baldywaldy09/ETS2MobileCam/docs/preview_mobile.mp4 | https://github.com/Baldywaldy09/ETS2MobileCam/docs/preview_wasd.mp4 |
 
 
 
